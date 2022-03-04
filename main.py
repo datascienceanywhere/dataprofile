@@ -1,5 +1,3 @@
-from functools import cache
-from turtle import up
 import streamlit as st 
 import pandas as pd 
 from pandas_profiling import ProfileReport
