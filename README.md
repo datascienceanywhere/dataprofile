@@ -4,3 +4,15 @@
 
 In this project, we have used streamlit and pandas-profiling for creating reporting for given .csv and .xlsx file
 Click on the below [project](https://share.streamlit.io/datascienceanywhere/dataprofile/main/main.py) to go to the page
+
+Framework used:
+- Python
+- Pandas
+- streamlit
+- pandas-profiling
+
+To run install the packages in requirements.txt and execute following command in terminal
+```
+streamlit run main.py
+```
+Once you execute the command it will run in `localhost:8501`
